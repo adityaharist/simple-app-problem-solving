@@ -1,7 +1,9 @@
 # simple-app-problem-solving
 Sebuah pemecahan masalah matematika sederhan dengan menggunakan bahasa python
 
-# Introduction
+# Description
+
+## Introduction
 ### Teori
 Sebuah operasi bilangan Real, salah satu bentuk operasi bilangan real adalah perbandingan.
 Perbandingan sendiri terbagi menjadi 2 bagian yaitu 
@@ -31,3 +33,8 @@ Misalnya dalam penerapan sehari-hari kamu sekarang sebagai juragan sapi, punya p
 Kamu punya ratusan peliharaan sapi di dalam kandang, dan di dalam kandang tuh terdapat berbagai jenis sapi di seluruh dunia. 
 Namun kamu merasa kesusahan karena hanya ngurusin tuh peternakan sendiri, akhirnya berencana untuk mempekerjakan orang. 
 Nah yang kita ketahui adalah semakin banyak orang yang mengerjakan sesuatu, semakin mudah dan semakin ringan dan semakin cepat sesuatu terselesaikan. See! Itulah mengapa para pemilik usaha ada proses rekrutmen karyawan untuk agar bisnisnya lebih bertumbuh  cepat dan tidak kewalahan mengurus usahanya sendirian. 
+
+# Step to produce
+- Install python version 3.0 (default installed in Linux OS)
+- git clone this repository. Before use git add ssh or ssh-keygen on your dedicated local computer then add to github (ssh setting)
+- run this python perbandingan3variable.py on terminal or cmd (Windows)
